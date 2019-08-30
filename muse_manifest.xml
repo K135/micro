@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="micro.com" resolutions="1x" timestamp="1567162647903">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="micro.com" resolutions="1x" timestamp="1567162902018">
   <folder name="css">
     <file name="site_global.css" crc="4029444368"/>
     <file name="master_a-master.css" crc="4101718268" ref="contact:gallery:index:contact-us:about:laptop:desktop:accesories"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:gallery:index:contact-us:about:laptop:desktop:accesories"/>
-    <file name="contact.css" crc="4054316786" ref="contact"/>
-    <file name="gallery.css" crc="533433766" ref="gallery"/>
-    <file name="index.css" crc="389626087" ref="index"/>
-    <file name="nomq_index.css" crc="35465245" ref="index"/>
-    <file name="contact-us.css" crc="192669306" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="3781686036" ref="contact-us"/>
-    <file name="about.css" crc="3914517355" ref="about"/>
-    <file name="laptop.css" crc="3954692261" ref="laptop"/>
-    <file name="desktop.css" crc="81829790" ref="desktop"/>
-    <file name="accesories.css" crc="4121756353" ref="accesories"/>
+    <file name="contact.css" crc="412047561" ref="contact"/>
+    <file name="gallery.css" crc="375874064" ref="gallery"/>
+    <file name="index.css" crc="440334501" ref="index"/>
+    <file name="nomq_index.css" crc="4285236997" ref="index"/>
+    <file name="contact-us.css" crc="76347285" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="3875071693" ref="contact-us"/>
+    <file name="about.css" crc="504626648" ref="about"/>
+    <file name="laptop.css" crc="4221086322" ref="laptop"/>
+    <file name="desktop.css" crc="3942391513" ref="desktop"/>
+    <file name="accesories.css" crc="89652137" ref="accesories"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us"/>
@@ -87,12 +87,12 @@
       <caption webpage="laptop" alt=""/>
     </file>
     <file name="microsys.png" crc="145960869" seo="true" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us">
-      <caption webpage="accesories" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="desktop" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="accesories" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="laptop" alt=""/>
       <caption webpage="contact-us" alt=""/>
@@ -100,24 +100,24 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="laptop:index:contact-us"/>
     <file name="download.png" crc="3917902792" seo="true" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us">
-      <caption webpage="accesories" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="desktop" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="accesories" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="laptop" alt=""/>
       <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
     </file>
     <file name="mail icon.png" crc="4000437051" seo="true" ref="laptop:about:gallery:contact:desktop:index:accesories:contact-us">
-      <caption webpage="accesories" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="desktop" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="accesories" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="laptop" alt=""/>
       <caption webpage="contact-us" alt=""/>
@@ -258,12 +258,12 @@
       <caption webpage="contact-us" alt=""/>
     </file>
   </folder>
-  <file name="laptop.html" crc="504940049" seo="true" mt="1567162475078" redirect="true"/>
-  <file name="about.html" crc="419491474" seo="true" mt="1567162475078" redirect="true"/>
-  <file name="gallery.html" crc="3935238346" seo="true" mt="1567162475078" redirect="true"/>
-  <file name="contact.html" crc="3957458385" seo="true" mt="1567162475078" redirect="true"/>
-  <file name="desktop.html" crc="4155124046" seo="true" mt="1567162475078" redirect="true"/>
-  <file name="index.html" crc="294655544" seo="true" mt="1567162501287" redirect="true"/>
-  <file name="accesories.html" crc="88792115" seo="true" mt="1567162475078" redirect="true"/>
-  <file name="contact-us.html" crc="3951745364" seo="true" mt="1567162475078" redirect="true"/>
+  <file name="laptop.html" crc="4161608191" seo="true" mt="1567162876459" redirect="true"/>
+  <file name="about.html" crc="438029220" seo="true" mt="1567162876459" redirect="true"/>
+  <file name="gallery.html" crc="448745948" seo="true" mt="1567162876459" redirect="true"/>
+  <file name="contact.html" crc="87134168" seo="true" mt="1567162876459" redirect="true"/>
+  <file name="desktop.html" crc="3763941384" seo="true" mt="1567162876459" redirect="true"/>
+  <file name="index.html" crc="72232953" seo="true" mt="1567162876459" redirect="true"/>
+  <file name="accesories.html" crc="147670006" seo="true" mt="1567162876459" redirect="true"/>
+  <file name="contact-us.html" crc="91024083" seo="true" mt="1567162876459" redirect="true"/>
 </manifest>
