@@ -1,159 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://micro.com/index.html</loc>
-    <lastmod>2019-08-30</lastmod>
+    <loc>http://microsystsr.com/index.html</loc>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://micro.com/images/microsys.png</image:loc>
+      <image:loc>http://microsystsr.com/images/microsys.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/download.png</image:loc>
+      <image:loc>http://microsystsr.com/images/og.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/mail%20icon.png</image:loc>
+      <image:loc>http://microsystsr.com/images/90850dd7-841a-4e06-918c-064b5ae9ff71.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/og.png</image:loc>
+      <image:loc>http://microsystsr.com/images/computer-network-1080x550.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/90850dd7-841a-4e06-918c-064b5ae9ff71.jpg</image:loc>
+      <image:loc>http://microsystsr.com/images/toner-refilling-services-500x500.png</image:loc>
+      <image:caption>tonner in thrissur</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/computer-network-1080x550.jpg</image:loc>
+      <image:loc>http://microsystsr.com/images/46515-hewlett-packard-computers-dell-desktop-pc-computer-all-in-one.png</image:loc>
+      <image:caption>Computer, Desktop in thrissur</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/toner-refilling-services-500x500.png</image:loc>
+      <image:loc>http://microsystsr.com/images/canon-color-photo-printer-bd6.png</image:loc>
+      <image:caption>Printer in thrissur</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/46515-hewlett-packard-computers-dell-desktop-pc-computer-all-in-one.png</image:loc>
+      <image:loc>http://microsystsr.com/images/0-3509_dahua-2-mp-bullet-cctv-camera-price.png</image:loc>
+      <image:caption>cctv in thrissur</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/canon-color-photo-printer-bd6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/0-3509_dahua-2-mp-bullet-cctv-camera-price.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/download-laptop-png-picture.png</image:loc>
+      <image:loc>http://microsystsr.com/images/download-laptop-png-picture.png</image:loc>
+      <image:caption>Laptop in thrissur</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>http://micro.com/about.html</loc>
-    <lastmod>2019-08-30</lastmod>
+    <loc>http://microsystsr.com/laptop.html</loc>
+    <lastmod>2019-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://micro.com/images/microsys.png</image:loc>
+      <image:loc>http://microsystsr.com/images/toshiba_logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/download.png</image:loc>
+      <image:loc>http://microsystsr.com/images/bright-sale-banner-marketing-promotion_1017-11519.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/mail%20icon.png</image:loc>
+      <image:loc>http://microsystsr.com/images/microsys.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://micro.com/gallery.html</loc>
-    <lastmod>2019-08-30</lastmod>
+    <loc>http://microsystsr.com/about.html</loc>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://micro.com/images/microsys.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/download.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/mail%20icon.png</image:loc>
+      <image:loc>http://microsystsr.com/images/microsys.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://micro.com/contact.html</loc>
-    <lastmod>2019-08-30</lastmod>
+    <loc>http://microsystsr.com/gallery.html</loc>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://micro.com/images/microsys.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/download.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/mail%20icon.png</image:loc>
+      <image:loc>http://microsystsr.com/images/microsys.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://micro.com/laptop.html</loc>
-    <lastmod>2019-08-30</lastmod>
+    <loc>http://microsystsr.com/desktop.html</loc>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://micro.com/images/toshiba_logo.png</image:loc>
+      <image:loc>http://microsystsr.com/images/toshiba_logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/bright-sale-banner-marketing-promotion_1017-11519.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/microsys.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/download.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/mail%20icon.png</image:loc>
+      <image:loc>http://microsystsr.com/images/microsys.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://micro.com/desktop.html</loc>
-    <lastmod>2019-08-30</lastmod>
+    <loc>http://microsystsr.com/accesories.html</loc>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://micro.com/images/toshiba_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/microsys.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/download.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/mail%20icon.png</image:loc>
+      <image:loc>http://microsystsr.com/images/microsys.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://micro.com/accesories.html</loc>
-    <lastmod>2019-08-30</lastmod>
+    <loc>http://microsystsr.com/contact-us.html</loc>
+    <lastmod>2019-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://micro.com/images/microsys.png</image:loc>
+      <image:loc>http://microsystsr.com/images/microsys.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://micro.com/images/download.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/mail%20icon.png</image:loc>
+      <image:loc>http://microsystsr.com/images/whatsapp-icon-256-902637335.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://micro.com/contact-us.html</loc>
+    <loc>http://microsystsr.com/assets/microsys.png</loc>
     <lastmod>2019-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://micro.com/images/microsys.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/download.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/mail%20icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://micro.com/images/whatsapp-icon-256-902637335.png</image:loc>
-    </image:image>
   </url>
 </urlset>
