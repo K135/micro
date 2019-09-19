@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="microsystsr.com" resolutions="1x" timestamp="1568733140216">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="microsystsr.com" resolutions="1x" timestamp="1568733190441">
   <folder name="assets">
     <file name="microsys.png" crc="145960869" seo="true" mt="1567157764000"/>
   </folder>
@@ -24,13 +24,13 @@
   <folder name="css">
     <file name="site_global.css" crc="3968251724"/>
     <file name="master_a-master.css" crc="14211079" ref="gallery:index:contact-us:about:laptop:desktop:accesories"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="gallery:index:contact-us:about:laptop:desktop:accesories"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact-us"/>
     <file name="gallery.css" crc="3984330024" ref="gallery"/>
     <file name="index.css" crc="140169503" ref="index"/>
     <file name="contact-us.css" crc="468630696" ref="contact-us"/>
     <file name="nomq_contact-us.css" crc="3919453243" ref="contact-us"/>
     <file name="about.css" crc="4094344596" ref="about"/>
-    <file name="laptop.css" crc="4241629750" ref="laptop"/>
+    <file name="laptop.css" crc="3942352644" ref="laptop"/>
     <file name="desktop.css" crc="4079301709" ref="desktop"/>
     <file name="accesories.css" crc="230546366" ref="accesories"/>
   </folder>
@@ -243,11 +243,11 @@
       <caption webpage="laptop" alt=""/>
     </file>
   </folder>
-  <file name="laptop.html" crc="529478799" seo="true" mt="1568733097992" redirect="true"/>
-  <file name="about.html" crc="463773460" seo="true" mt="1568537862711" redirect="true"/>
-  <file name="gallery.html" crc="507697504" seo="true" mt="1568537862711" redirect="true"/>
-  <file name="desktop.html" crc="4191958531" seo="true" mt="1568537862711" redirect="true"/>
-  <file name="index.html" crc="4246130245" seo="true" mt="1568537862711" redirect="true"/>
-  <file name="accesories.html" crc="3882611597" seo="true" mt="1568537862711" redirect="true"/>
+  <file name="laptop.html" crc="4068635792" seo="true" mt="1568733148969" redirect="true"/>
+  <file name="about.html" crc="463773460" seo="true" mt="1568733135101" redirect="true"/>
+  <file name="gallery.html" crc="507697504" seo="true" mt="1568733135101" redirect="true"/>
+  <file name="desktop.html" crc="4191958531" seo="true" mt="1568733135101" redirect="true"/>
+  <file name="index.html" crc="4246130245" seo="true" mt="1568733135101" redirect="true"/>
+  <file name="accesories.html" crc="3882611597" seo="true" mt="1568733135101" redirect="true"/>
   <file name="contact-us.html" crc="304018589" seo="true" mt="1568733135101" redirect="true"/>
 </manifest>
